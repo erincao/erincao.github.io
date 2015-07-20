@@ -1,0 +1,31 @@
+
+@import url(http://fonts.googleapis.com/css?family=Architects+Daughter);
+
+body{
+  font-family:"Architects Daughter";
+  color:white;
+  background-color: #82CAFA
+;
+}
+
+h1 {
+ color: red;
+}
+
+h2 {
+ color: orange;
+}
+
+h4 {
+ color: #F6358A;
+}
+
+/*id */
+#worktag{
+  color:blue;
+}
+
+/*class*/
+.bluetext {
+  color:blue;
+}
